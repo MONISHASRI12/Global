@@ -30,4 +30,10 @@ Journey to Cloud Envisioning Your Solution Badge
 ![journey-to-cloud-envisioning-your-solution 2](https://github.com/Shashmithayoganarajah/GLOBAL_ECONOMIC_DATA/assets/139777522/684da29f-d252-4e77-aede-2bd07e3ec985)
 
 
+Certification
+
+[Getting_Started_with_Enterprise_Data_Science_Badge20230902-28-23si6k.pdf](https://github.com/MONISHASRI12/Global-Economic-data/files/12503646/Getting_Started_with_Enterprise_Data_Science_Badge20230902-28-23si6k.pdf)
+
+
+
 
