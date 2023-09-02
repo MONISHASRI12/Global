@@ -35,5 +35,9 @@ Certification
 [Getting_Started_with_Enterprise_Data_Science_Badge20230902-28-23si6k.pdf](https://github.com/MONISHASRI12/Global-Economic-data/files/12503646/Getting_Started_with_Enterprise_Data_Science_Badge20230902-28-23si6k.pdf)
 
 
+[Journey_to_Cloud__Envisioning_Your_Solution_Badge20230902-28-a6qe6r.pdf](https://github.com/MONISHASRI12/Global-Economic-data/files/12503649/Journey_to_Cloud__Envisioning_Your_Solution_Badge20230902-28-a6qe6r.pdf)
+
+
+
 
 
